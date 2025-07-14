@@ -5,8 +5,8 @@ chat_history = []
 
 # Common Q&A database
 knowledge_base = {
-    "what is your name": "I'm BrainBot, your super smart chatbot!",
-    "who made you": "I was created by someone who loves coding and AI!",
+    "what is your name": "I'm ChatBot, your super smart chatbot!",
+    "who made you": "I was created by someone who loves coding and AI who is Tanees!",
     "what is python": "Python is a programming language used for many things like websites, games, and AI.",
     "how are you": "I'm just a bunch of code, but thanks for asking!",
     "who is the president of usa": "As of 2025, the President of the USA is Joe Biden.",
